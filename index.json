@@ -1,9 +1,9 @@
 [
   {
     "id": "e58ce416-a245-4776-a987-0346dc698c34",
-    "name": "React+Vite+Typescript",
-    "description": "Vanilla Vite with TypeScript, no docs.",
-    "url": "https://raw.githubusercontent.com/felixsebastian/hyperdoc-blueprints/refs/heads/main/REACT_VITE_TYPESCRIPT.md",
+    "name": "Hello World",
+    "description": "Super simple project",
+    "url": "https://raw.githubusercontent.com/maplab-oss/hyperdoc-blueprints-test/refs/heads/main/hello-world.md",
     "githubRepo": null,
     "standardFields": [],
     "fields": []
